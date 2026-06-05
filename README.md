@@ -134,7 +134,7 @@ POST /livros
 {
   "titulo": "Clean Code",
   "autor": "Robert C. Martin",
-  "isbn": "9780132350884"
+
 }
 ```
 
