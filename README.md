@@ -92,7 +92,7 @@ http://localhost:8080/swagger-ui/index.html
 Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/biblioteca.git
+git clone https://github.com/Danielss44/biblioteca.git
 ```
 
 Entre na pasta:
